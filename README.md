@@ -1,4 +1,5 @@
 Programación Orientada a Objetos en lenguaje Java
+
 En este repositorio se encuentran las atividades que realizamos en el laboratorio de la facultad para entender el entorno de lenguaje de programación.
 El objetivo fue que el alumno conociera el manejo de datos en Java y elaborara programas sencillos que pusieran en práctica la teoria. 
 
