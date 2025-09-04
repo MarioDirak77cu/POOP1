@@ -1,0 +1,28 @@
+POOP2
+
+
+
+Proyecto P02 - Programación Orientada a Objetos en Java
+
+
+Este repositorio contiene el desarrollo del Proyecto 1 de la asignatura PO. 
+El objetivo es la creación de programas que implementen variables y constantes de diferentes tipos de datos, expresiones y estructuras de control de flujo. 
+
+Teoría Básica 
+
+
+La base de cualquier lenguaje de programación reside en sus elementos básicos y reglas de combinación, conocidas como sintaxis. Esta sintaxis es el conjunto de normas que dictan cómo se debe escribir el código para que sea comprensible y ejecutable por una computadora. Además de las reglas sintácticas, un programa se compone de elementos constructivos esenciales como palabras reservadas, identificadores, caracteres especiales, expresiones e instrucciones. Sin embargo, para una correcta codificación, es vital entender otros conceptos clave: los tipos de datos y las estructuras de control de flujo
+Tipos de datos
+En Java existen dos grupos de tipos de datos, primitivos y tipos de referencia
+Tipos primitivos: aquellos datos sencillos que contienen los tipos de
+información más habituales: valores booleanos, caracteres y valores numéricos enteros o de punto flotante.
+Los tipos de dato referencia representan datos compuestos o estructuras, es decir,
+referencias a objetos.
+Estructuras de control: permiten tomar decisiones o realizar un proceso repetidas veces. 
+
+
+
+Desarrollo de la práctica 
+*Observamos el tipo de datos que existen, de tipo entero, char. 
+*Utilizamos estructuras de control, en las cuales también manipulábamos diferentes tipos de datos
+*Logramos poner en práctica como utilizar estos conceptos para el desarrollo de un ejercicio. 
